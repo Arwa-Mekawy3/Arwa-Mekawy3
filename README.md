@@ -7,7 +7,6 @@
   - [LinkedIn](https://linkedin.com/in/arwa-mekawy)
   - [Instagram](https://instagram.com/arwa.mekawy33?igsh=MW5qaDN5OXN0aXEyZg==)
   - Email: arwa.mekawy33@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love combining hardware and software to create innovative tech solutions!
 
 <!---
