@@ -4,7 +4,35 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer specialized in Artificial Intelligence
 --------------------------------------------------------
 
-I am Arwa Mekawy, a dedicated and passionate final-year student in Computer Science, specializing in Artificial Intelligence, at Pharos University, Alexandria (PUA). My coding journey began in 2014, when I was just 10 years old, and since then, I have cultivated a deep passion for AI, coding, problem-solving, and computer engineering. This early start has empowered me to tackle complex challenges and create innovative solutions that seamlessly integrate both hardware and software. Specializing in Artificial Intelligence, I have built a strong foundation in machine learning, deep learning, computer vision, and real-time technology. I have developed expertise in building intelligent systems that solve real-world problems, especially in areas like augmented reality, where I bridge the gap between theory and practical application. I have undergone specialized training in Arduino development at Smart Technology, Embedded Systems at the Information Technology Institute (ITI), Machine Learning at ZA Tech, and Flutter Mobile Development at Route Academy. Additionally, I have hands-on experience in full-stack web development, enabling me to design and implement AI-driven solutions that are scalable and impactful. I am driven by a passion for continuous learning, always eager to explore emerging technologies and collaborate on forward-thinking projects. I thrive in dynamic environments and am committed to pushing the boundaries of AI and software development. I am actively seeking opportunities to contribute my skills and passion to innovative teams and impactful projects. Let’s connect and explore how we can shape the future of technology together.
+I’m Arwa Mekawy, a Computer Science graduate from Pharos University in Alexandria (PUA), specializing in Artificial Intelligence. With a coding journey that began in 2014 at just 10 years old, I bring over a decade of hands-on experience blending AI, software engineering, and embedded systems into real-world, impactful solutions.
+
+My core strengths include:
+
+- Machine Learning and Deep Learning
+- Computer Vision and Real-Time Applications
+- Embedded Systems (Arduino, Microcontrollers)
+- Flutter Mobile Development
+- Augmented Reality
+
+I’ve received specialized training from top institutions, including:
+
+- Smart Technology – Arduino Development
+- Information Technology Institute (ITI) – Embedded Systems
+- ZA Tech – Machine Learning
+- Route Academy – Flutter Development
+
+As Head of the IEEE AI and Data Science Team at PUA, I lead initiatives that empower students and young professionals to innovate, collaborate, and excel in tech.
+
+I thrive in fast-paced, creative environments where I can continuously learn and contribute to forward-thinking projects. I’m especially excited about roles that merge AI, hardware, and mobile platforms to solve meaningful challenges.
+
+I am currently open to opportunities in:
+
+- AI Engineering
+- Hardware Development
+- Mobile Application Development
+- Research and Innovation in Emerging Technologies
+
+Let’s connect and explore how we can build the future of technology together.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [arwa.mekawy33@gmail.com](mailto:arwa.mekawy33@gmail.com)
