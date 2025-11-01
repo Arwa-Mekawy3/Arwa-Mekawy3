@@ -57,25 +57,9 @@ Let’s connect and explore how we can build the future of technology together.
 <p align="left"> <a href="https://www.github.com/Arwa-Mekawy3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/arwa.mekawy33" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arwa-mekawy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arwa-Mekawy3&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=86400" alt="Arwa-Mekawy3's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Arwa-Mekawy3&theme=merko&hide_border=true&cache_seconds=86400" alt="Arwa-Mekawy3's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arwa-Mekawy3&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Arwa Mekawy's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Arwa-Mekawy3&theme=merko&radius=10" alt="Arwa-Mekawy3's Activity Graph" />
-</p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Arwa-Mekawy3"><img src="https://github-readme-stats.vercel.app/api?username=Arwa-Mekawy3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Arwa-Mekawy3's GitHub stats" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
-<a href="https://github.com/Arwa-Mekawy3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arwa-Mekawy3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
